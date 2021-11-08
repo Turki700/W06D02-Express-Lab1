@@ -1,0 +1,24 @@
+{
+  "name": "w06d02-express-lab1",
+  "version": "1.0.0",
+  "description": "## Follow these steps: * Create an application project folder called `my_first_express_app`.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turki700/W06D02-Express-Lab1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turki700/W06D02-Express-Lab1/issues"
+  },
+  "homepage": "https://github.com/Turki700/W06D02-Express-Lab1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "path": "^0.12.7"
+  }
+}
